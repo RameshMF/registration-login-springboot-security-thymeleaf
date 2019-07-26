@@ -1,4 +1,4 @@
-package net.javaguides.springboot.springsecurity.model;
+package techIn.springboot.springsecurity.model;
 
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
